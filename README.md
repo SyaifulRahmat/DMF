@@ -8,7 +8,7 @@
  $ python -m pip install bs4
  $ python -m pip install futures
  $ python -m pip install rich
- $ git clone https://github.com/SyaifulRahmat/DMF
- $ cd DMF
- $ python run.py
+ $ git clone https://github.com/SyaifulRahmat/jalan
+ $ cd jalan
+ $ python jalan.py
  ```
